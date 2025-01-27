@@ -1,9 +1,6 @@
 I am from Bangalore
 
-<<<<<<< HEAD
 
 
 This is added by me
-=======
 Added by other member
->>>>>>> e2b696dad12cec0449912e67e6aab130b7d8a50c
